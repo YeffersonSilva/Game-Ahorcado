@@ -6,7 +6,7 @@ public class GameAhorcado {
 
     public static void main(String[] args) {
 
-//* Hola paa Nea */
+//* Hola paa Neaaaaaa */
         Scanner scanner = new Scanner(System.in);
         boolean seguirJugando = true;
 
